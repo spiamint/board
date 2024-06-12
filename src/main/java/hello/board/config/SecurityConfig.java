@@ -54,7 +54,7 @@ public class SecurityConfig {
                 .permitAll()
                 .logoutUrl("/logout")
                 .logoutSuccessUrl("/boards")
-                .deleteCookies("JSESSIONID") // 로그아웃 시 JSESSIONID 제거
+//                .deleteCookies("JSESSIONID") // 로그아웃 시 JSESSIONID 제거
                 .invalidateHttpSession(true) // 로그아웃 시 세션 종료
                 .clearAuthentication(true) // 로그아웃 시 권한 제거
 

@@ -1,7 +1,8 @@
 # 커뮤니티 게시판 프로젝트
 ### 개요 
-### [프로젝트 바로가기](http://springboard-env.eba-x3sau5v7.ap-northeast-1.elasticbeanstalk.com/boards)     
+### [프로젝트 바로가기](http://spiaboard.ap-northeast-2.elasticbeanstalk.com/)     
 ___테스트용 ID: sample / PW: sample123___ , 자유롭게 이용 가능합니다.
+위의 프로젝트 바로가기는 [이 프로젝트](https://github.com/spiamint/boardJpa) 를 배포한 링크 입니다.
 
 학습과 병행하며 진행한 프로젝트입니다.
 단순한 이론 학습 대신, 실제 커뮤니티 게시판의 기능을 직접 구현해봄으로써 더 깊은 학습에 대한 동기를 부여하고자 하였습니다.
