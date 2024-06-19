@@ -1,6 +1,6 @@
 # 커뮤니티 게시판 프로젝트
 ### 개요 
-### [프로젝트 바로가기](http://spiaboard.ap-northeast-2.elasticbeanstalk.com/)     
+### [프로젝트 바로가기](http://spiaminto.ap-northeast-2.elasticbeanstalk.com/spiaboard/boards)     
 ___테스트용 ID: sample / PW: sample123___ , 자유롭게 이용 가능합니다.
 위의 프로젝트 바로가기는 [이 프로젝트](https://github.com/spiamint/boardJpa) 를 배포한 링크 입니다.
 
