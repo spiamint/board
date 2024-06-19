@@ -111,7 +111,4 @@ tailLog, bundleLog 요청 시 기본 로그에 애플리케이션의 logback 에
  배포된 애플리케이션의 로그를 쉽게, 실시간으로 확인하기 위해 사용했습니다.  
 .ebextensions 파일에 awslogs 로그 드라이버의 설정을 추가하여, 로그를 스트리밍 하도록 설정했습니다.
 
-## 후기
-블로그 링크에 그동안 개발하면서 생긴 문제점, 이에 대한 고민과 해결방법에 대해 기록하였습니다.  
-[블로그 링크](https://spiaminto.tistory.com/category/%ED%95%99%EC%8A%B5%EC%A0%95%EB%A6%AC%28%EA%B3%B5%EA%B0%9C%29)
  
